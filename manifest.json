@@ -1,0 +1,11 @@
+{
+  "Id": "Melon.ChinesePinyinVoice",
+  "AssemblyPath": "Melon.ChinesePinyinVoice.dll",
+  "Dependencies": [],
+  "Metadata": {
+    "Name": "Chinese Pinyin Voice",
+    "Author": "melonedoe",
+    "Version": "0.1.0",
+    "Description": "Adds WEBFISHING talking sounds for Chinese chat by converting Chinese characters to pinyin letters."
+  }
+}

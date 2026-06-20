@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Melon.ChinesePinyinVoice/0.1.0.0": {
+        "runtime": {
+          "Melon.ChinesePinyinVoice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Melon.ChinesePinyinVoice/0.1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
